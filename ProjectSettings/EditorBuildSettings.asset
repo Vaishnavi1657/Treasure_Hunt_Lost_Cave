@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a5b9316cc9a69b6478dd24572a00fe93
+  - enabled: 1
+    path: Assets/Scenes/LevelSelection.unity
+    guid: f96e29441549b4f41917cacd8a2532da
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: ca51c10b8c91ebb4ab7ea52b969a3dce
+  - enabled: 1
+    path: Assets/Scenes/CaveLevel1.unity
+    guid: 77afe6fe7bd91f0408e9900a367c45bb
+  - enabled: 1
+    path: Assets/Scenes/CaveLevel2.unity
+    guid: f1ce7f17e94b30e44a92feaccc0f716c
+  - enabled: 1
+    path: Assets/Scenes/CaveLevel3.unity
+    guid: 1d8ba3fcd8231b740a794c14e9716d0c
+  - enabled: 1
+    path: Assets/Scenes/GameComplete.unity
+    guid: 69087b0c8080a2b41b1193a66b3d3980
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 682fe245353161443bfab0bc903132c6, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6719e55b9847c7141b5e1f705cf0faf3, type: 2}
